@@ -1,0 +1,14 @@
+{
+  "name": "name_me",
+  "version": "1.0.0",
+  "description": "brainjs is used for pridiction like if name is for female or male.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ritik Sinha",
+  "license": "MIT",
+  "dependencies": {
+    "brain.js": "^1.6.1"
+  }
+}
